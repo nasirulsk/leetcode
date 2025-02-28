@@ -1,0 +1,3 @@
+https://github.com/strawdawgs/LeetCode-Easy-Answers-PHP/blob/main/LeetCodeProblemSetEasy_PHP.php
+https://github.com/php4dev/LeetCode-in-Php
+https://github.com/BakhadyrovF/leetcode?tab=readme-ov-file
